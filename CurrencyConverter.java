@@ -1,8 +1,4 @@
-/*Group 11
-  Group Members- Muhtasim Abeed A19EC4039
-                 Ashrafur Rahman Nazin	A20EC4012
-                 Ahmad Samman	A17CS4013
-                 */
+
 
 import java.util.*;
 import java.text.DecimalFormat;
