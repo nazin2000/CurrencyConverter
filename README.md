@@ -1,4 +1,4 @@
-Project Overview
+Project Overview: 
 This Currency Converter project was developed using Java during my Object Oriented Programming course in the fifth semester at Universiti Teknologi Malaysia (UTM). The project allows users to easily convert between different currencies by using real-time or manually input exchange rates, with a focus on applying object-oriented principles such as encapsulation, inheritance, and polymorphism.
 
 Features
